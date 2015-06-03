@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-DatePicker-Sample</string>
+    <string name="calendarViewShown">android:calendarViewShown</string>
+    <string name="spinnersShown">android:spinnersShown</string>
+    <string name="datePickerMode">android:datePickerMode</string>
+    <string name="activityClass">Activity</string>
+    <string name="activityTheme">Activity Theme</string>
+    <string name="showDatePickerButton">Show DatePicker</string>
+</resources>
