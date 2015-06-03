@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerMode">
+        <item>spinner</item>
+        <item>calendar</item>
+    </string-array>
+    <string-array name="activityClass">
+        <item>FragmentActivity</item>
+        <item>AppCompatActivity</item>
+    </string-array>
+    <string-array name="activityTheme">
+        <item>None</item>
+        <item>Theme.Black</item>
+        <item>Theme.Light</item>
+        <item>Theme.Holo</item>
+        <item>Theme.Holo.Light</item>
+        <item>Theme.AppCompat</item>
+        <item>Theme.AppCompat.Light</item>
+    </string-array>
+</resources>
